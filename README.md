@@ -1,4 +1,9 @@
-# Codes for NPP Tallurutiup Imanga project 
+# Codes for NPP Tallurutiup Imanga project ❄️
 
+MATLAB, Python and Julia scripts processing :
+* Remote Sensing Reflectance (Rrs) 🛰️
+* [DINEOF+](https://journals.ametsoc.org/view/journals/atot/41/10/JTECH-D-23-0105.1.xml) 💻
+* Chlorophyll-a (chl-a) 
+* Net Primary Production (NPP) 
 
-MATLAB, Python and Julia scripts for Remote Sensing Reflectance (Rrs), DINEOF+, Chlorophyll-a (chl-a) and Net Primary Production (NPP) processing for the Tallurutiup Imanga Marine protected area (MPA) project. 
+for the Tallurutiup Imanga Marine Protected Area (MPA) project. 
