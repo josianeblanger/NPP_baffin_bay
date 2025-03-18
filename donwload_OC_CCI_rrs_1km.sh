@@ -1,4 +1,5 @@
 #dowload CCI data via plymouth server
+#Author : Josiane Lavoie-Bélanger
 #!/usr/bin/env bash
 
 # Local folder for downloaded files
