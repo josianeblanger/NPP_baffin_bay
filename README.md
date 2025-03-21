@@ -6,4 +6,6 @@ MATLAB, Python and Julia scripts processing :
 * Chlorophyll-a (chl-a) 🌱
 * Net Primary Production (NPP)  🦠
 
-for the Tallurutiup Imanga Marine Protected Area (MPA) project. 
+for the Tallurutiup Imanga Marine Protected Area (MPA) project financed by DFO Canada. 
+
+There's a branch for each component (rrs, chl-a, dineof_plus and npp).
