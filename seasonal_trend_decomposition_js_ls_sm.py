@@ -1,3 +1,10 @@
+# Python code for Multiple Seasonal-Trend decomposition using LOESS (MSTL) with statsmodels v.0.15.0 (Skipper, S., & Josef, P. (2010). statsmodels: Econometric and statistical modeling with python. 9th Python in Science Conference) 
+# Apply on Surface Chlorophyll-a OC-CCI dataset
+# Monthly Mean chl-a values for each year were compiled into a CSV 
+# Cluster with study area (Jones Sound, Lancaster Sound and Smith Sound) and the absence of sea ice arch in the ROI for a specific year 
+#Author : Josiane Lavoie-Bélanger
+
+# ---------------------------
 from statsmodels.tsa.seasonal import seasonal_decompose
 import pandas as pd
 import numpy as np
@@ -15,7 +22,7 @@ df.set_index('date', inplace=True)
 df.sort_index(inplace=True)
 
 # ---------------------------
-# 2. LOAD ARCH INFO DATA (semicolon-delimited)
+# 2. LOAD ARCH INFO DATA (csv ; semicolon-delimited)
 # ---------------------------
 arch_csv = r"/Volumes/JLB_SSD/master/sea_ice_arch/arch_or_not_year.csv"
 arch_df = pd.read_csv(arch_csv, sep=';')
