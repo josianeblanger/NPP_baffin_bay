@@ -8,4 +8,6 @@ MATLAB, Python, R and Julia scripts processing :
 
 for the Tallurutiup Imanga Marine Protected Area (MPA) project financed by DFO Canada. 
 
-There's a file for each component (rrs, chl-a, dineof_plus and pp) ; # WORK IN PROGRESS
+There's a file for each component (rrs, chl-a, dineof_plus and pp) ;  
+
+#WORK IN PROGRESS
