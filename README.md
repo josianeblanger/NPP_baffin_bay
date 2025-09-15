@@ -1,4 +1,4 @@
-# Codes for NPP Tallurutiup Imanga project ❄️
+# Codes for PP Tallurutiup Imanga project ❄️
 
 MATLAB, Python, R and Julia scripts processing :
 * Remote Sensing Reflectance (Rrs) 🛰️
